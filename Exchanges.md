@@ -1,8 +1,8 @@
-| Exchange       | KYC/AML| Bitcoin only  | Non-Custodial | 5 | 6 | 7 | 8 | 9 | 
-| :------------- | :-----:|:-------------:|:-------------:| - | - | - | - | - | 
-| Coinbase       |   Ja   |      Nein     |      Nein     |   |   |   |   |   |     
-| Kraken         |   Ja   |      Nein     |      Nein     |   |   |   |   |   |      
-| Bitcoin.de     |   Ja   |      Nein     |               |   |   |   |   |   |     
-| GetBittr       |   Nein |       Ja      |       Ja      |   |   |   |   |   |     
-| Bitpanda       |   Ja   |      Nein     |      Nein     |   |   |   |   |   |      
-| Binace         |   Ja   |      Nein     |      Nein     |   |   |   |   |   |   
+| Exchange       | KYC/AML| Bitcoin only  | Non-Custodial | Webseite                     | 6 | 7 | 8 | 9 | 
+| :------------- | :-----:|:-------------:|:-------------:| :--------------------------: | - | - | - | - | 
+| Coinbase       |   Ja   |      Nein     |      Nein     | https://www.coinbase.com     |   |   |   |   |     
+| Kraken         |   Ja   |      Nein     |      Nein     | https://www.kraken.com       |   |   |   |   |      
+| Bitcoin.de     |   Ja   |      Nein     |               | https://www.bitcoin.de       |   |   |   |   |     
+| Bittr          |   Nein |       Ja      |       Ja      | https://www.getbittr.com     |   |   |   |   |     
+| Bitpanda       |   Ja   |      Nein     |      Nein     | https://www.bitpanda.com/de  |   |   |   |   |      
+| Binance        |   Ja   |      Nein     |      Nein     | https://www.binance.com/de   |   |   |   |   |   
