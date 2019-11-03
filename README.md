@@ -5,4 +5,4 @@ Diese Listen sollen dazu dienen siche einen Überblick zu verschaffen, sie solle
 1. [Exchanges](https://github.com/bitcointurm/BitcoinGerman/blob/master/Exchanges.md)
 2. [Podcasts](https://github.com/bitcointurm/BitcoinGerman/blob/master/Podcast.md)
 3. [Artikel](https://github.com/bitcointurm/BitcoinGerman/blob/master/Artikel.md)
-4.
+4. [Infoseiten](https://github.com/bitcointurm/BitcoinGerman/blob/master/Infoseiten.md)
