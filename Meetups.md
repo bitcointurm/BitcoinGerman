@@ -8,5 +8,5 @@
 | [Luzern](https://www.meetup.com/de-DE/Bitcoin-Meetup-Luzern/)                 |     ?         |                      |  
 | [Zürich](https://www.meetup.com/de-DE/Bitcoin-Meetup-Switzerland/)            |     ?         |                      | 
 | [Wien](http://meetu.ps/c/4mJQH/GzXKM/d)                                       |     ?         |                      |
-|                 |        |      
+| [Hamburg](https://www.meetup.com/Bitcoin-Stammtisch-das-Original/)            | Monatlich     | 1 Mittwoch im Monat  |   
 |                 |        |   
