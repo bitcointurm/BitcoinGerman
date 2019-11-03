@@ -9,4 +9,5 @@
 | [Zürich](https://www.meetup.com/de-DE/Bitcoin-Meetup-Switzerland/)            | Alle 2 Wochen |                      | 
 | [Wien](http://meetu.ps/c/4mJQH/GzXKM/d)                                       |     ?         |                      |
 | [Hamburg](https://www.meetup.com/Bitcoin-Stammtisch-das-Original/)            | Monatlich     | 1 Mittwoch im Monat  |       
-| [Biel](https://www.meetup.com/de-DE/Biel-Digitale-Wahrungen-Meetup/)          | Monatlich     | 4 Donnerstag im Monat|
+| [Biel](https://www.meetup.com/de-DE/Biel-Digitale-Wahrungen-Meetup/)          | Monatlich     | 4 Donnerstag im Monat|    
+| [Karlsruhe](https://www.meetup.com/de-DE/BitcoinKarlsruhe/)                   | Monatlich     | 1 Mittwoch im Monat  |
