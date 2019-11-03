@@ -5,7 +5,7 @@ Reihenfolge ist rein zufällig, kein Ranking sondern nur eine Auflistung.
 | :----------------------------------------------- | :-------:|:-------------:|:--------------:|
 | [Aprycot.de](https://www.aprycot.de/mediathek/)  |    x     |               |                |  
 | [Blockinfo.ch](https://blockinfo.ch)             |    x     |               |                | 
-| [Bitcoinready.de](https://bitcoinready.de)       |    x     |               |                |
+| [Bitcoinready.de](https://bitcoinready.de)       |    x     |      x        |                |
 | [Coinspondent.de](https://coinspondent.de)       |          |               |       x        |
 |                 |        |               |               |
 |                 |        |               |               |
