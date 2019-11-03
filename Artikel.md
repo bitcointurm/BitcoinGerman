@@ -1,3 +1,5 @@
+Die Reihenfolge ist rein zufällig und ergibt keine Preferenz
+
 | Titel                                       |  Link                                  | Bescheibung   | 
 | :----------------------------------------   | :-------------------------------------:|:-------------:|
 | Die 10 Gebote                               | https://blockinfo.ch/die-10-gebote/    |               |               
