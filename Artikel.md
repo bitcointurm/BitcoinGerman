@@ -1,4 +1,4 @@
-Die Reihenfolge ist rein zufällig und ergibt keine Preferenz
+Die Reihenfolge ist rein zufällig und keine Preferenz
 
 | Titel                                                                       | Bescheibung   | 
 | :------------------------------------------------------------------------   | :------------:|
@@ -7,3 +7,4 @@ Die Reihenfolge ist rein zufällig und ergibt keine Preferenz
 | [Eine äußerst friedliche Revolution](https://kurzelinks.de/c5qh)            |               |  
 | [53 bullische Gründe für Bitcoin](https://kurzelinks.de/qb6r)               |               | 
 | [Bitcoin ist die Lösung, nicht das Problem](https://kurzelinks.de/sfy1)     |               | 
+| [Dagobert Duck - Von Gold zu Bitcoin](https://kurzelinks.de/if8r)           |               | 
