@@ -1,7 +1,7 @@
 Die Reihenfolge ist rein zufällig und keine Preferenz
 
 | Titel                                                                       | Bescheibung                                    | 
-| :------------------------------------------------------------------------   | :---------------------------------------------:|
+| :------------------------------------------------------------------------   | :--------------------------------------------- |
 | [Die 10 Gebote](https://blockinfo.ch/bitcoin-nutzen/10-grundsaetze/)        | 10 Grundsätze, wie verhalte ich mich richtig   |               
 | [Das monetäre Argument für Bitcoin](https://kurzelinks.de/pa95)             | Original-Titel: The Monetary Case for Bitcoin  |            
 | [Eine äußerst friedliche Revolution](https://kurzelinks.de/c5qh)            | Originalversion geschrieben von Nic Carter     |  
