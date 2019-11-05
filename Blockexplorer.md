@@ -6,4 +6,3 @@ Sie bieten tiefe Einsicht in die jeweilige Blockchain und erlauben Nutzern vielf
 | [Blockstream](https://blockstream.info)  | 
 | [Blockchain.com ](https://www.blockchain.com/de/explorer)        |
 | [Blockexplorer](https://blockexplorer.com)|
-| ["Anatomie des Staates" Murray N. Rothbard](https://alexanarcho.net/podcast/anatomie-des-staates/)|
