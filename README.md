@@ -8,3 +8,4 @@ Diese Listen sollen dazu dienen sich einen Überblick zu verschaffen, sie sollen
 4. [Infoseiten](https://github.com/bitcointurm/BitcoinGerman/blob/master/Infoseiten.md)
 5. [Meetups](https://github.com/bitcointurm/BitcoinGerman/blob/master/Meetups.md)
 6. [Audio](https://github.com/bitcointurm/BitcoinGerman/blob/master/Audio.md)
+7. [Blockexplorer](https://github.com/bitcointurm/BitcoinGerman/blob/master/Blockexplorer.md)
