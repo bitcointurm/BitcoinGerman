@@ -10,3 +10,4 @@ Diese Listen sollen dazu dienen sich einen Überblick zu verschaffen, sie sollen
 6. [Audiobücher/Artikel gelesen](https://github.com/bitcointurm/BitcoinGerman/blob/master/Audio.md)
 7. [Blockexplorer](https://github.com/bitcointurm/BitcoinGerman/blob/master/Blockexplorer.md)
 8. [Videos](https://github.com/bitcointurm/BitcoinGerman/blob/master/Videos.md)
+9. [Bitcoi Fullnodes](https://github.com/bavarianledger/bitcoin-nodes)
