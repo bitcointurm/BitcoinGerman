@@ -10,8 +10,7 @@ Die Reihenfolge ist rein zufällig und keine Preferenz
 | [Dagobert Duck - Von Gold zu Bitcoin](https://kurzelinks.de/if8r)             | Dagobert im Wandel, von Gold zu Bitcoin      | 
 | [Das Bullische Argument für Bitcoin](https://kurzelinks.de/j7ry)              | Originalversion geschrieben von Vijay Boyapati | 
 | [Bitcoin, NICHT Blockchain](https://kurzelinks.de/hpc6)                       | Originalversion geschrieben von Parker Lewis              |   
-| [Die Geschichte von Geld](https://kurzelinks.de/yluf)                         | Die Evolution von Muscheln bis hin zu Bitcoin
-| 
+| [Die Geschichte von Geld](https://kurzelinks.de/yluf)                         | Die Evolution von Muscheln bis hin zu Bitcoin|
 | [Was ist Bitcoin?](https://kurzelinks.de/hshi)                                | Bitcoin im Kontext von Geld und der Gegenwart | 
 | [Wie funktioniert Bitcoin?](https://kurzelinks.de/nsku)                       | Veranschaulicht die Bedeutung von Full Nodes  | 
 | [Modellierung von Bitcoins Wert mit Stock-to-Flow](https://kurzelinks.de/xj9w)| Originalversion von PlanB                   | 
