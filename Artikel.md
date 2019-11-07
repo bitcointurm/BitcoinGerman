@@ -15,3 +15,6 @@ Die Reihenfolge ist rein zufällig und keine Preferenz
 | [Wie funktioniert Bitcoin?](https://kurzelinks.de/nsku)                       | Veranschaulicht die Bedeutung von Full Nodes  | 
 | [Modellierung von Bitcoins Wert mit Stock-to-Flow](https://kurzelinks.de/xj9w)| Originalversion von PlanB                   | 
 | [Läuft Bitcoin Gold den Rang ab?](https://kurzelinks.de/2971)                 | Analyse des Stock-to-Flow Modells der BayernLB |  
+| [21 Lektionen - Intro + Kapitel I: Philosophie](https://kurzelinks.de/m455)   | Originalversion geschrieben von derGigi      | 
+| [21 Lektionen - Kapitel II: Wirtschaft](https://kurzelinks.de/7fjy)           | Originalversion geschrieben von derGigi      | 
+| [21 Lektionen - Kapitel III: Technologie](https://kurzelinks.de/egkc)         | Originalversion geschrieben von derGigi      | 
