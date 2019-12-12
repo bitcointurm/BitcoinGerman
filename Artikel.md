@@ -18,3 +18,4 @@ Die Reihenfolge ist rein zufällig und keine Preferenz
 | [21 Lektionen - Intro + Kapitel I: Philosophie](https://kurzelinks.de/m455)   | Originalversion geschrieben von derGigi      | 
 | [21 Lektionen - Kapitel II: Wirtschaft](https://kurzelinks.de/7fjy)           | Originalversion geschrieben von derGigi      | 
 | [21 Lektionen - Kapitel III: Technologie](https://kurzelinks.de/egkc)         | Originalversion geschrieben von derGigi      | 
+| [Bitcoin: Metastase einer Meta-Idee](https://kurzelinks.de/dw2t)              | Geschrieben von Pascal Hügli      | 
