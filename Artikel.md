@@ -19,3 +19,6 @@ Die Reihenfolge ist rein zufällig und keine Preferenz
 | [21 Lektionen - Kapitel II: Wirtschaft](https://kurzelinks.de/7fjy)           | Originalversion geschrieben von derGigi      | 
 | [21 Lektionen - Kapitel III: Technologie](https://kurzelinks.de/egkc)         | Originalversion geschrieben von derGigi      | 
 | [Bitcoin: Metastase einer Meta-Idee](https://kurzelinks.de/dw2t)              | Geschrieben von Pascal Hügli      | 
+| [Bitcoin brechen – Das Prinzip von hartem Geld](https://kurzelinks.de/z3ug)   | Originalversion geschrieben von Ben Kaufman      | 
+| [Shelling Out: Die Ursprünge des Geldes](https://kurzelinks.de/o6hi)          | Originalversion geschrieben von Nick Szabo      | 
+| [Die Perfekte Geldpolitik der Bitcoin Zentralbank](https://kurzelinks.de/xx2c)| Originalversion geschrieben von Pierre Rochard  | 
