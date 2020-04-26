@@ -23,3 +23,4 @@ Die Reihenfolge ist rein zufällig und keine Preferenz
 | [Shelling Out: Die Ursprünge des Geldes](https://kurzelinks.de/o6hi)          | Originalversion geschrieben von Nick Szabo      | 
 | [Die Perfekte Geldpolitik der Bitcoin Zentralbank](https://kurzelinks.de/xx2c)| Originalversion geschrieben von Pierre Rochard  | 
 | [Bitcoin’s Anpflanzung](https://kurzelinks.de/11br)              | Originalversion geschrieben von Dan Held      | 
+| [Bitcoins Gesellschaftsvertrag](https://kurzelinks.de/o5iy)             | Originalversion geschrieben von Hasu      | 
